@@ -6,6 +6,8 @@ public class Practice {
         System.out.println("Practice");
 
         System.out.println("Second practice");
+        
+        // This line from GitHub
 
     }
 }
